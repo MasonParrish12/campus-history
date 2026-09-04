@@ -68,7 +68,7 @@ width="100%"
 caption=""
 image-path="images/Screenshot_2025-05-01_180119.png"
 %}
-The campus in December 1935. By this point, the two Korber/Press buildings had been conjoined and linked to the Carlisle Gym.[^ConjoinedtoCarlisle]
+>The campus in December 1935. By this point, the two Korber/Press buildings had been conjoined and linked to the Carlisle Gym.[^ConjoinedtoCarlisle]
 
 {% include images/figure.html
   class="img-center"
@@ -136,7 +136,7 @@ Afterwards, though, the Press was left in a relatively good position. In 1957, t
 The architect Louis G. Hesselden was brought on to design and build an addition to the Alpha Chi Omega sorority house in 1950, which included a new lounge, bathroom, laundry room, and a "town girl's room," as well as a few other renovations like an additional shower in the second floor bathroom.[^Hesselden] A door at the end of the upstairs hallway was also added to access the roof of the expansion, which was intended as a sun deck. The basement was left untouched, though the building foundation was updated to accommodate the new left side of the house. The lounge now serves as the Press's entrance room.
 
 {% include images/jumbotron.html
-  height="35.57"
+  height="38"
   image-path="images/Screenshot_20250516_150644~3.jpg"
   title=""
 %}
@@ -221,7 +221,7 @@ image-path="images/Screenshot_20250516_153057.jpg"
 
 First, a flood took place. Then cracks began to form in the floors and walls, with one being nearly two feet deep. The building had been built in an unorthodox manner because a second story that could be rented out was hastily added to the construction plan, and so it ended up with bizarre support beams, including ones that ran diagonally and in front of windows. This, coupled with the construction workers not digging deep enough to properly ground the building, was the cause of it beginning to break apart. The strain of the unplanned additional floor was too much for it to bear. Newly added rods that drilled deep into the Basehart location's foundation were necessary to shore it up.
 
-Other issues plagued the Press at this time as well. They had been under the assumption that the Basehart building would be theirs, and invested money in it accordingly, but it turned out they were merely renting it from UNM, which caused some confusion and frustration. UNM Central Administration would ultimately relocate the Press to allocate the Basehart location's newly built offices to a biology research institute that had been awarded a multi-million-dollar, multi-year grant for an international project. They were threatening to move their program to another university, which drove UNM to find a way to keep them around. As for the Press...well, UNM told them they could move to 1717 Roma Ave NE, and said it'd make for a better arrangement because no rent payments would be necessary. That fall, the Press transferred over to 1717 Roma, though the warehouse remained at Basehart until 2017, when it was shuttered permanently. Fulfillment and distribution were then outsourced to Longleaf.
+Other issues plagued the Press at this time as well. They had been under the assumption that the Basehart building would be theirs, and invested money in it accordingly, but it turned out they were merely renting it from UNM, which caused some confusion and frustration. UNM Central Administration would ultimately relocate the Press to allocate the Basehart location's newly built offices to a biology research institute that had been awarded a multi-million-dollar, multi-year grant for an international project. They were threatening to move their program to another university, which drove UNM to find a way to keep them around. As for the Press, UNM told them they could move to 1717 Roma Ave NE, and said it'd make for a better arrangement because no rent payments would be necessary. That fall, the Press transferred over to 1717 Roma, though the warehouse remained at Basehart until 2017, when it was shuttered permanently. Fulfillment and distribution were then outsourced to Longleaf.
 
 ## Conclusion
 
