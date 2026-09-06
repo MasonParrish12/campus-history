@@ -135,14 +135,6 @@ Afterwards, though, the Press was left in a relatively good position. In 1957, t
 ### 1717 Roma Expands
 The architect Louis G. Hesselden was brought on to design and build an addition to the Alpha Chi Omega sorority house in 1950, which included a new lounge, bathroom, laundry room, and a "town girl's room," as well as a few other renovations like an additional shower in the second floor bathroom.[^Hesselden] A door at the end of the upstairs hallway was also added to access the roof of the expansion, which was intended as a sun deck. The basement was left untouched, though the building foundation was updated to accommodate the new left side of the house. The lounge now serves as the Press's entrance room.
 
-{% include images/jumbotron.html
-  height="35.57"
-  image-path="images/Screenshot_20250516_150644~3.jpg"
-  title=""
-%}
-
->Hesselden's plans for the "Addition + Alteration" to the Alpha Chi Omega sorority house.[^Hesselden]
-
 {% include images/figure.html
 class="img-center"
 width="100%"
